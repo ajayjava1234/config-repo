@@ -1,5 +1,5 @@
 global: 
-  message: Welcome to glpobal Microservices Environment!!
+  message: Welcome to global Microservices Environment!!
 logging:
   level:
     root: INFO
